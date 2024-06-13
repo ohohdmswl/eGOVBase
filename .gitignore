@@ -61,3 +61,16 @@ $RECYCLE.BIN/
 .settings
 */target
 */target/**
+
+# Compliled files
+target/
+/target/
+**/target
+
+# setting files
+#.classpath
+#.project
+.settings/
+/.settings/
+/bin/
+.springBeans
